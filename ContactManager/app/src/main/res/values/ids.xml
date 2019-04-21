@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bt1" type="id" />
+    <item name="ListView" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="view_name" type="id" />
+    <item name="view_mobile" type="id" />
+    <item name="view_home" type="id" />
+    <item name="view_email" type="id" />
+</resources>

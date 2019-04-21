@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContactManager</string>
+
+    <string name="page_display">Contact List</string>
+    <string name="create_contact">Create Contact</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="email">Email</string>
+    <string name="home_phone">Home Phone</string>
+    <string name="mobile_phone">Mobile Phone</string>
+    <string name="name">Name</string>
+    <string name="name2">Name:</string>
+    <string name="mobile_phone2">Mobile Phone:</string>
+    <string name="home_phone2">Home Phone:</string>
+    <string name="email2">Email:</string>
+</resources>
